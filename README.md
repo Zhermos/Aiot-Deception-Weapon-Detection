@@ -21,19 +21,6 @@
 
 ---
 
-## ⚙️ การติดตั้ง (Installation)
-
-1. **ติดตั้ง Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **ดาวน์โหลดไฟล์ Weights:**
-   * นำไฟล์ `yolov3_weapon.weights` (~246 MB) มาวางไว้ในโฟลเดอร์ `models/`
-   *(ไฟล์นี้ไม่รวมใน Git เนื่องจากขนาดเกิน 100 MB)*
-
----
-
 ## 🚀 วิธีใช้งาน (Usage)
 
 * **รันระบบหลัก:**
